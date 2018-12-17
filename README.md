@@ -1,18 +1,18 @@
 # trackerslist
 An updated list of public BitTorrent trackers
-##### Updated 2018-05-10 00:00:02
+#### Updated: 2018-12-17
 *These lists are automatically updated every day:*
 
 * trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
-* trackers_all (83 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-* trackers_all_udp (54 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
-* trackers_all_http (22 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
+* trackers_all (68 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
+* trackers_all_udp (34 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
+* trackers_all_http (27 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
 * trackers_all_https (3 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
 * trackers_all_ws (4 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
 
 Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt
-* trackers_all_ip (83 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
+* trackers_all_ip (68 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
 
 ##### Notes
 * A bot automatically checks the trackers and updates the lists.
@@ -27,5 +27,14 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 ##### Contact
 ngosang [@] hotmail [.es]
 
+##### Donations
+* BTC: [1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT](https://www.blocktrail.com/BTC/address/1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT)
+* ETH: [0x50A79a95878dd588A55E909dAc2eA3962D2fA46c](https://etherscan.io/address/0x50A79a95878dd588A55E909dAc2eA3962D2fA46c)
+
 ##### Third-party tools
-* [Bash script](https://github.com/oilervoss/transmission) to add these trackers to [transmission-remote](https://github.com/transmission/transmission)
+* [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) to add these trackers to your .torrent files
+* [transmission bash script 1](https://github.com/AndrewMarchukov/tracker-add) to add these trackers to [transmission-remote](https://github.com/transmission/transmission)
+* [transmission bash script 2](https://github.com/oilervoss/transmission) to add these trackers to [transmission-remote](https://github.com/transmission/transmission)
+
+##### Third-party online tools
+* [torrenteditor](http://torrenteditor.com) to add these trackers to your .torrent files
